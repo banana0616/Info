@@ -1,8 +1,8 @@
-# 꿀꿀봇 시즌2
+# 꿀꿀봇 정보
 
 ![Language](https://img.shields.io/badge/language-Javascript,%20Node.js-brightgreen)
 
-꿀꿀봇 이용자 여러분이 피드백, 건의, 버그제보, 이용문제 를 여기 쓸수 있읍니다.
+꿀꿀봇 정보를 여기서 볼수 있읍니다
 
 ### 테스팅 기록
 
